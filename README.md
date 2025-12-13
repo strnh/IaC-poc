@@ -39,7 +39,7 @@ IaC-poc/
 ## 前提条件
 
 - Terraform (推奨: v1.0+)
-- Ansible (推奨: v2.9+)
+- Ansible (推奨: v7.0+)
 - kubectl (Kubernetes使用時)
 - Docker (コンテナ使用時)
 
