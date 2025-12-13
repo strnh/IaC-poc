@@ -1,0 +1,22 @@
+# Example Ansible Playbook Template
+
+# This file serves as a template for adding Ansible playbooks
+# Remove this comment block when adding actual playbook
+
+# Example playbook structure:
+# ---
+# - name: Example Playbook
+#   hosts: all
+#   become: yes
+#   tasks:
+#     - name: Install package
+#       apt:
+#         name: nginx
+#         state: present
+#         update_cache: yes
+#
+#     - name: Start service
+#       service:
+#         name: nginx
+#         state: started
+#         enabled: yes
